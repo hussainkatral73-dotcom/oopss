@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details                   |
 | ------------ | ---------------------     |
-| **Name**     | Sheefanaz B Sarawan       |
-| **Roll No.** | 414                       |
+| **Name**     | Husensab Katral           |
+| **Roll No.** | 404                       |
 | **Division** | D                         |
-| **SRN**      | 01FE23BEC175              |
+| **SRN**      | 01FE23BEC164              |
 | **Semester** | VII                       |
 
 
